@@ -1,0 +1,82 @@
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.csproj.AssemblyReference.cache
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.AssemblyInfoInputs.cache
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.AssemblyInfo.cs
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\appsettings.json
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\loja.exe
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\loja.deps.json
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\loja.runtimeconfig.json
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\loja.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\loja.pdb
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\autologon\Desktop\projectapi\loja\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.loja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.build.loja.props
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.loja.props
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.loja.props
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\scopedcss\bundle\loja.styles.css
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.csproj.Up2Date
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.dll
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\refint\loja.dll
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.pdb
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\loja.genruntimeconfig.cache
+C:\Users\autologon\Desktop\projectapi\loja\obj\Debug\net8.0\ref\loja.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\appsettings.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\loja.exe
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\loja.deps.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\loja.runtimeconfig.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\loja.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\loja.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.loja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.build.loja.props
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.loja.props
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.loja.props
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\scopedcss\bundle\loja.styles.css
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.csproj.Up2Date
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\refint\loja.dll
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.pdb
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\loja.genruntimeconfig.cache
+C:\Users\bryan\OneDrive\Área de Trabalho\projectapi\loja\obj\Debug\net8.0\ref\loja.dll
